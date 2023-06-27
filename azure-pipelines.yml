@@ -27,3 +27,7 @@ steps:
     command: 'custom'
     customCommand: 'build'
 
+- task: Npm@1
+  inputs:
+    command: 'custom'
+    customCommand: 'test'
