@@ -15,3 +15,4 @@ you can also explore this repo so that you can see the code used to generate tha
 go to the [issues](https://github.com/chriscamac/angular-by-example/issues) section of this repo and jump in
 
 you can also contribute by adding issues for examples you would like to see added to the site
+New line
