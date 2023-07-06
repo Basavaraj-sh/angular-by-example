@@ -12,6 +12,7 @@ trigger:
     - '*'
     exclude:
     - 'unfinshed_build_pipeline.yml'
+    - 'azure-pipelines.yml'
 pool:
   vmImage: windows-latest
 
