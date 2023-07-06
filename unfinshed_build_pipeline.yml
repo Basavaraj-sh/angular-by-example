@@ -15,6 +15,7 @@ trigger:
 pool:
   vmImage: windows-latest
 
+
 steps:
 - task: NodeTool@0
   inputs:
